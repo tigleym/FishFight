@@ -3,7 +3,7 @@ name: Publish Book to gh-pages
 on:
   push:
     branches:
-      - main
+      - book_dev
 
 jobs:
   book:
